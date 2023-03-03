@@ -20,7 +20,7 @@ body {
     margin: 3%; 
 }
 
-form{
+.questionnaire{
   background-color: var(--background-color);
   text-align: center;
   font-family: 'Lora', serif;
@@ -166,19 +166,20 @@ height: var(--dimension-img-dans-grid);
 }
 
 .grid-item-page-contact-middle{
-    height: 5%;
-    width: 80%;
-    text-align: center;
+    
+     text-align: center;
     grid-row: 2/2;
     padding: var(--padding-contour-text);
+    width: 80%;
+    height: 5%;
 }
 
 .grid-item-page-contact-bottom{
+   height: 5%;
+    width: 80%;
     text-align: center;
     grid-row: 3/3;
     padding: var(--padding-contour-text);
-    width: 80%;
-    height: 5%;
 }
 
 .conteneur-text-contact{
