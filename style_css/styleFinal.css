@@ -45,7 +45,7 @@ h1{
     border-style: solid;
     border-color:var(--dark-color);
     background-color: var(--text-box-color);
-    text-align: justify;
+    text-align: center;
 }
 
 /* NAVIGATION */
