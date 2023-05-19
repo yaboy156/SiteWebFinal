@@ -34,6 +34,14 @@ h1{
    font-size: var(--h1-font-size);
 }
 
+.titre-presentation{
+    border-width: 2px;
+    border-style: solid;
+    border-color:var(--dark-color);
+    background-color: var(--text-box-color);
+    text-align: center;
+}
+
 .style-titre{
     border-width: 2px;
     border-style: solid;
