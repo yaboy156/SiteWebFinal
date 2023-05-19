@@ -125,13 +125,13 @@ margin-left: 5%;
 /* layout de la page principale */
 .paragraphe-modele-droit{
     margin-left: 20%;
-    margin-right: 5%;
+    margin-right: 10%;
     padding: var(--padding-contour-text); 
 }
 
 .paragraphe-modele-gauche{
     margin-right: 20%;
-    margin-left: 5%;
+    margin-left: 10%;
     padding: var(--padding-contour-text); 
 }
 
